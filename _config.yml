@@ -146,6 +146,8 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - install_local
+  - run_local
 keep_files:
   - .git
   - .svn
