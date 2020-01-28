@@ -57,6 +57,11 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+## Preprints
+  <ul>{% for post in site.preprints %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 ## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
