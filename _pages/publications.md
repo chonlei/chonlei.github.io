@@ -11,13 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-## Pre-prints
+## Preprints
 
 {% for post in site.preprints reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-## Peer reviewed
+## Peer-reviewed Journal Articles
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
