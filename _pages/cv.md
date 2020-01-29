@@ -10,8 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* B.Sc. in Physics, Imperial College London, 2016
 * Ph.D. in Computer Science, University of Oxford, 2020 (expected)
+* Doctoral Training Course, Systems Approaches to Biomedical Science, University of Oxford, 2017
+* B.Sc. in Physics, Imperial College London, 2016
 
 ## Teaching Experience
 * 2018 - _present_: Lecturer
@@ -39,7 +40,7 @@ redirect_from:
 * Fall 2015: Research Internship (UROP)
   * Imperial College London, Department of Physics
   * Project: _Compressed imaging with single-pixel cameras: polarimetric vision through turbid media_
-  * Supervisor: Prof. Peter T\"{o}r\"{o}k
+  * Supervisor: Prof. Peter Török
 
 * Summer 2015: Research Internship (UROP)
   * University of Tokyo, Department of Advanced Energy
@@ -53,17 +54,17 @@ redirect_from:
   * Quattro Plant Ltd, London
 
 ## Publications
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Preprints
-  <ul>{% for post in site.preprints %}
+  <ul>{% for post in site.preprints reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Talks
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
