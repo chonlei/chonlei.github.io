@@ -34,7 +34,7 @@ redirect_from:
 ## Work experience
 * Summer 2016: Research Internship
   * University of Macau, Department of Computer and Information Science
-  * Project: _On force fields in molecular dynamics applying on peptide ddsorption_
+  * Project: _On force fields in molecular dynamics applying on peptide adsorption_
   * Supervisor: Dr. Shirley W. I. Siu
 
 * Fall 2015: Research Internship (UROP)
@@ -42,7 +42,7 @@ redirect_from:
   * Project: _Compressed imaging with single-pixel cameras: polarimetric vision through turbid media_
   * Supervisor: Prof. Peter Török
 
-* Summer 2015: Research Internship (UROP)
+* Summer 2015: Research Internship (UTSIP)
   * University of Tokyo, Department of Advanced Energy
   * Project: _Measuring of density profile of electron plasma in RT-1_
   * Supervisors: Prof. Z. Yoshida and Prof. M. Nishiura
