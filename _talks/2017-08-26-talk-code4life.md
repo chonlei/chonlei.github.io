@@ -5,6 +5,6 @@ type: "Conference talk"
 permalink: /talks/2017-code4life-talk
 venue: "Code4Life Scientific 2017"
 date: 2017-08-26
-location: "Poznan, Poland"
+location: "Poznań, Poland"
 ---
 
