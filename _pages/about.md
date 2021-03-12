@@ -13,8 +13,9 @@ redirect_from:
 Welcome to Chon Lok Lei's research homepage.
 
 I am a Lecturer in the [Faculty of Health Science](https://fhs.um.edu.mo/en/) at the [University of Macau](https://www.um.edu.mo/) (see [my offical university page](https://fhs.um.edu.mo/en/staff/chonlok-lei/)).
-I completed my D.Phil. (a.k.a. Ph.D.) at the [Computational Biology group](https://www.cs.ox.ac.uk/research/compbio) in the Department of Computer Science at the [University of Oxford](http://www.ox.ac.uk) (see [my previous university page](https://www.cs.ox.ac.uk/people/chonlok.lei)), before which I attended the [Doctoral Training Centre](http://www.dtc.ox.ac.uk/) at the University of Oxford.
-I was a physicist by training at [Imperial College London](https://www.imperial.ac.uk/).
+I completed my D.Phil. (a.k.a. Ph.D.) at the [Computational Biology group](https://www.cs.ox.ac.uk/research/compbio) in the Department of Computer Science at the [University of Oxford](http://www.ox.ac.uk) (see [my previous university page](https://www.cs.ox.ac.uk/people/chonlok.lei)),
+before which I attended the [Doctoral Training Centre](http://www.dtc.ox.ac.uk/) at the University of Oxford,
+and I received my undergraduate degree in Physics from [Imperial College London](https://www.imperial.ac.uk/).
 
 My research interest is in mathematical/computational modelling of biological/physiological systems.
 I work on human induced pluripotent stem cell-derived cardiomyocyte (hiPSC-CM) electrophysiology and the hERG channel modelling for studying pharmaceutical drug safety.
