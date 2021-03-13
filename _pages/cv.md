@@ -10,18 +10,18 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D. in Computer Science, University of Oxford, 2020
-* Doctoral Training Course, Systems Approaches to Biomedical Science, University of Oxford, 2017
-* B.Sc. in Physics, Imperial College London, 2016
+* 2020: Ph.D. in Computer Science, University of Oxford
+* 2017: Doctoral Training Course, Systems Approaches to Biomedical Science, University of Oxford
+* 2016: B.Sc. in Physics, Imperial College London
 
 
-## Professional appointments
+## Professional Appointments
 * 2021 - _present_: Lecturer at Faculty of Health Science
   * University of Macau
   * An academic staff position appointed via an independent research fellowship, with a functionaltitle as _UM Macao Fellow_.
 
 
-## Teaching experience
+## Teaching Experience
 * 2018 - 2020: Lecturer
   * University of Oxford, Doctoral Training Centre
   * Course: _Essential Mathematics: Systems of differential equations_
@@ -39,27 +39,18 @@ redirect_from:
   * Undergraduate courses: _Mathematics_ and _Mathematics Methods_
 
 
-## Other work experience
-* Summer 2016: Research Internship
-  * University of Macau, Department of Computer and Information Science
+## Research Internships
+* 2016: University of Macau, Department of Computer and Information Science
   * Project: _On force fields in molecular dynamics applying on peptide adsorption_
   * Supervisor: Dr. Shirley W. I. Siu
 
-* Fall 2015: Research Internship (UROP)
-  * Imperial College London, Department of Physics
+* 2015: Imperial College London, Department of Physics (UROP)
   * Project: _Compressed imaging with single-pixel cameras: polarimetric vision through turbid media_
   * Supervisor: Prof. Peter Török
 
-* Summer 2015: Research Internship (UTSIP)
-  * University of Tokyo, Department of Advanced Energy
+* 2015: University of Tokyo, Department of Advanced Energy (UTSIP)
   * Project: _Measuring of density profile of electron plasma in RT-1_
   * Supervisors: Prof. Z. Yoshida and Prof. M. Nishiura
-
-* Spring 2015: Research Assistant
-  * Imperial College London, Institute of Biomedical Engineering
-
-* Fall 2014: Engineering Technical Assistant
-  * Quattro Plant Ltd, London
 
 
 ## Publications
@@ -79,11 +70,22 @@ redirect_from:
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+
+## Additional Activities
+* 2014 - 2020: Software Designer/Developer
+  * MUSO Ltd., London
+
+* 2015: Research Assistant
+  * Imperial College London, Institute of Biomedical Engineering
+
+* 2014: Engineering Technical Assistant
+  * Quattro Plant Ltd., London
+
   
-## Service and leadership
-* 2020: Departmental Joint Consultative Committee at the University of Oxford.
-* 2016 - 2020: Student Representative for Doctoral Training Centre at the University of Oxford.
-* 2017 - 2018: Student Representative for Computational Biology group at the University of Oxford.
-* 2016 - 2017: Committee of the Clarendon Scholars' Council.
-* Summer 2016: Invited Speaker at the HFPJ College at the University of Macau.
-* 2014 - 2016: Committee, Co-founder, of the Macau Student Association, London United Kingdom (MSAUK).
+## Service and Leaderships
+* 2020: Departmental joint consultative committee at the University of Oxford.
+* 2016 - 2020: Student representative for Doctoral Training Centre at the University of Oxford.
+* 2017 - 2018: Student representative for Computational biology group at the University of Oxford.
+* 2016 - 2017: Committee of the Clarendon scholars' council.
+* 2016: Invited speaker at the HFPJ college at the University of Macau.
+* 2014 - 2016: Committee, co-founder, of the Macau Student Association, London United Kingdom (MSAUK).
