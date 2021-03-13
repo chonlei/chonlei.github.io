@@ -186,6 +186,9 @@ collections:
   preprints:
     output: true
     permalink: /:collection/:path/
+  thesis:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -233,6 +236,15 @@ defaults:
   - scope:
       path: ""
       type: preprints
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _thesis
+  - scope:
+      path: ""
+      type: thesis
     values:
       layout: single
       author_profile: true

@@ -13,7 +13,9 @@ redirect_from:
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
+  * _preprints/
   * _publications/
+  * _thesis/
   * _posts/
   * _teaching/
   * _talks/

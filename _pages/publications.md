@@ -20,3 +20,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+## PhD Thesis
+
+{% for post in site.thesis reversed %}
+  {% include archive-single.html %}
+{% endfor %}
