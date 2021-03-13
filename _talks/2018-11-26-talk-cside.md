@@ -1,5 +1,5 @@
 ---
-title: "Statistical Inference for the Cardiac Excitation Model using Pints"
+title: "Statistical inference for the cardiac excitation model using PINTS"
 collection: talks
 type: "Conference talk"
 permalink: /talks/2018-cside-talk
