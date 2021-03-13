@@ -22,7 +22,10 @@ Our heart and many other muscles are 'controlled' via (bio-)electrical signals.
 Electric pulses are effectively what our body use to tell our muscle cells when to contract, similarly for how neurons 'communicate' within our body;
 these cells are called '[excitable cells](https://en.wikipedia.org/wiki/Membrane_potential)'.
 Understanding the basic mechanisms of these cells is vital to many medical applications &mdash; the study of electrophysiology.
-[Voltage clamp](https://en.wikipedia.org/wiki/Voltage_clamp) is one of the most important experimental methods for studying these excitable cells;
+Membranes of these excitable cells contain many different kinds of [ion channels](https://en.wikipedia.org/wiki/Ion_channel) which carries the current of the cell.
+Some of these ion channels are voltage-dependent;
+often we want to learn how these channels (and their currents) reacts to voltage changes.
+[Voltage clamp](https://en.wikipedia.org/wiki/Voltage_clamp) is perhaps one of the most important experimental methods for studying these excitable cells;
 it _attempts_ to measure the currents through the membranes of these cells, whilst holding the membrane voltage at a fixed level.
 
 
@@ -31,6 +34,7 @@ How does it work?
 If we inject a current into a cell, it will change the membrane potential (voltage) of the cell.
 The basic idea of a voltage clamp is to iteratively measure the membrane potential, and then add in the necessary current to bring the membrane potential to a desired level.
 The current applied to the cell is in fact equal to (with the opposite sign/direction of) the current going across the cell membrane at the set voltage.
+Then we have achieved the goal: holding the membrane potential whilst measuring the current of the cell responding to it.
 
 
 All good then?
