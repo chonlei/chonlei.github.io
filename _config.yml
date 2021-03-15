@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Chon Lok Lei"
   avatar           : "Chon-Lok-Lei.jpg"
-  bio              : "A physicist-turned-computational biologist, Lecturer, Macao Fellow at the University of Macau. DPhil at the University of Oxford. BSc at Imperial College."
+  bio              : "A physicist-turned-computational biologist. Lecturer (Macao Fellow) at the University of Macau. DPhil at the University of Oxford. BSc at Imperial College."
   location         : "Macau"
-  employer         :
+  employer         : #"University of Macau"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Chon+Lok+Lei"
   googlescholar    : "https://scholar.google.com/citations?user=6ZSwOZgAAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Chon_Lok_Lei"
-  uri              :
+  uri              : "https://fhs.um.edu.mo/en/staff/chonlok-lei"
   bitbucket        :
   codepen          :
   dribbble         :
