@@ -27,6 +27,6 @@ To answer that question, I, together with [Gary Mirams](https://www.nottingham.a
 We found that using such a model can account for most of the cell-cell variability that we observed in hERG ion channel kinetics.
 The voltage clamp experiment model that we developed is also a very useful educational tool.
 I have created a free online app using the model for understanding (or even to get a feel for) what the amplifier does under the hood:
-[voltage-clamp-model.herokuapp.com](https://voltage-clamp-model.herokuapp.com/).
+[virtual-voltage-clamp.herokuapp.com](https://virtual-voltage-clamp.herokuapp.com/).
 
-See my [publications page]({{ base_path }}/publications) for my recent work.
+See my [publications page]({{ base_path }}/publications) for my other recent work.
