@@ -1,8 +1,8 @@
 ---
-title: 'Voltage clamp app'
+title: 'Virtual voltage clamp'
 date: 2021-03-12
 header:
-permalink: /posts/2021/03/voltage-clamp-app/
+permalink: /posts/2021/03/virtual-voltage-clamp/
 tags:
   - research
   - voltage-clamp
