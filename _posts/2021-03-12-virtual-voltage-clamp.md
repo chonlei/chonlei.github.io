@@ -12,7 +12,7 @@ tags:
   - app
 ---
 
-An online app to simulate a patch-clamp voltage-clamp experiment: [voltage-clamp-model.herokuapp.com](https://voltage-clamp-model.herokuapp.com/).
+An online app to simulate a patch-clamp voltage-clamp experiment: [virtual-voltage-clamp.herokuapp.com](https://virtual-voltage-clamp.herokuapp.com/).
 
 
 Voltage clamp
@@ -57,16 +57,17 @@ And if you tell them what the capacitance is, they can inject more current to sp
 This gets us closer to what we intended to measure.
 
 
-Are we close enough to ideal?
+Are we close enough to the ideal?
 ------
 No.
 I mean, I don't know.
 It all depends on what we are trying to learn from the experiments.
 So I can't tell you for sure whether the compensation is good enough, but I can instead tell you how close you are to the ideal case.
 [Our study](https://doi.org/10.1098/rsta.2019.0348)<sup>1</sup> developed a mathematical model for the entire voltage-clamp experiment.
-We can simulate what is happening in the voltage-clamp experiments, and we can readout, study and analyse things that cannot be observed in the actual experiments.
-The model is deployed on [voltage-clamp-model.herokuapp.com](https://voltage-clamp-model.herokuapp.com/), so that you can play around with different settings/conditions of the experiment and see how the ideal case differs from the observation.
-Have fun and enjoy virtual voltage clamping!
+We can simulate what is happening in the voltage-clamp experiments, and we can readout, study and analyse things that cannot be observed in the actual experiments, such that we can have a better idea of whether we are happy with what we measured in the experiments.
+
+The model that we developed is deployed on [virtual-voltage-clamp.herokuapp.com](https://virtual-voltage-clamp.herokuapp.com/), so that everyone can play around with different settings/conditions of the experiment and see how the ideal case differs from the observation.
+Have fun and enjoy _virtual voltage clamping_!
 
 
 <sup>1</sup> Lei _et al._ 2020, _Phil. Trans. R. Soc. A._ 378:20190348. [doi:10.1098/rsta.2019.0348](https://doi.org/10.1098/rsta.2019.0348).
