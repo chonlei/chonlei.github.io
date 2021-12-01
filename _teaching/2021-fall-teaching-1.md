@@ -24,6 +24,6 @@ Upon completion of the course, each student should be able to:
 Lectures
 ======
 
-The course consists of 25 one-hour-15-minute lectures, two non-graded homework, two graded-homework, and a final exam.
+The course consists of 28 one-hour-15-minute lectures, two non-graded homework, two graded-homework, and a final exam.
 
 For the detail of the course, see [here](https://isw.umac.mo/siwci/faces/courseDetailUG?courseCode=GEST1002).
