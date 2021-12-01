@@ -6,7 +6,7 @@ excerpt: 'This paper develops two flexible noise models handle unknown noise gen
 date: 2020-11-10
 venue: 'arXiv'
 paperurl: 'http://arxiv.org/abs/2011.04854'
-citation: 'Creswell, R., Lambert, B., Lei, C.L., Robinson, M., & Gavaghan, D. (2020). &quot;Using flexible noise models to avoid noise model misspecification in inference of differential equation time series models.&quot; <i>arXiv</i>.'
+citation: 'Creswell, R., Lambert, B., Lei, C.L., Robinson, M., and Gavaghan, D. (2020). &quot;Using flexible noise models to avoid noise model misspecification in inference of differential equation time series models.&quot; <i>arXiv</i>.'
 ---
 When modelling time series, it is common to decompose observed variation into a "signal" process, the process of interest, and "noise", representing nuisance factors that obfuscate the signal.
 To separate signal from noise, assumptions must be made about both parts of the system.
