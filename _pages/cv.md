@@ -87,7 +87,7 @@ redirect_from:
 
   
 ## Service and Leaderships
-* 2021: Judge panel of a local high-school science competition in Macau.
+* 2021: Judging panel of a local high-school science competition in Macau.
 * 2020: Departmental joint consultative committee at the University of Oxford.
 * 2016 - 2020: Student representative for Doctoral Training Centre at the University of Oxford.
 * 2017 - 2018: Student representative for Computational biology group at the University of Oxford.
