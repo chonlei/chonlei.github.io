@@ -21,7 +21,7 @@ Upon completion of the course, each student should be able to:
 * Describe how mathematics can be used in everyday life.
 * Build and use simple mathematical models to get approximate answers to real life problems.
 
-Lectures
+Lectures and assessments
 ======
 
 The course consists of 28 one-hour-15-minute lectures, two non-graded homework, two graded-homework, and a final exam.
