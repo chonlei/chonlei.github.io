@@ -22,7 +22,7 @@ redirect_from:
 
 
 ## Teaching Experience
-* 2021 - _present_: Lecturer
+* 2021 - _present_: Lecturer (Course Convenor)
   * University of Macau
   * Course: _GEST1002 Quantitative Reasoning for Social Sciences_
 
