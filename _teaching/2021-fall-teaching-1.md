@@ -3,7 +3,7 @@ title: "GEST1002 Quantitative Reasoning for Social Sciences"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-1
-venue: "University of Macau, Lecture Theatre E2-G078"
+venue: "University of Macau, Lecture Theatre E4-G078"
 date: 2021-08-15
 location: "Macau"
 ---
