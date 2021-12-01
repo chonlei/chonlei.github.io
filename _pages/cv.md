@@ -16,9 +16,9 @@ redirect_from:
 
 
 ## Professional Appointments
-* 2021 - _present_: Lecturer at Faculty of Health Science
+* 2021 - _present_: Lecturer at Faculty of Health Sciences
   * University of Macau
-  * An academic staff position appointed via an independent research fellowship, with a functionaltitle as _UM Macao Fellow_.
+  * An academic staff position appointed via an independent research fellowship, with a functional title as _UM Macao Fellow_.
 
 
 ## Teaching Experience
