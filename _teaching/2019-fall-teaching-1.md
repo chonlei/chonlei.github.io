@@ -10,8 +10,7 @@ location: "Oxford, UK"
 
 This course gives students a solid grounding in mathematical topics essential for the analysis of biological systems.
 
-Course overview
-======
+## Course overview
 
 Both analytical and numerical topics are covered and include:
 * basic algebra revision
@@ -23,8 +22,7 @@ Both analytical and numerical topics are covered and include:
 
 Students will use Python to perform both symbolic and numeric computation, alongside pen-and-paper calculation.
 
-Lectures and practical sessions
-======
+## Lectures and practical sessions
 
 The course consists of 16 one-hour lectures, followed by 2.5-hour practical sessions to work through problems based on the material covered during the lecture.
 

@@ -11,8 +11,7 @@ location: "Macau"
 This course introduces basic concept of finance, logic, probability and statistics and basics of mathematical modelling.
 Real-life applications will be emphasised.
 
-Intended Learning Outcomes
-======
+## Intended learning outcomes
 
 Upon completion of the course, each student should be able to:
 * Demonstrate an understanding of basic skills in logical inference.
@@ -21,8 +20,7 @@ Upon completion of the course, each student should be able to:
 * Describe how mathematics can be used in everyday life.
 * Build and use simple mathematical models to get approximate answers to real life problems.
 
-Lectures and assessments
-======
+## Lectures and assessments
 
 The course consists of 28 one-hour-15-minute lectures, two non-graded homework, two graded-homework, and a final exam.
 

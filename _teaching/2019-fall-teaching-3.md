@@ -10,8 +10,7 @@ location: "Oxford, UK"
 
 This course gives a solid introduction to different methods and algorithms in scientific computing with applications in biological science.
 
-Topics covered
-======
+## Topics covered
 
 This course covers and includes:
 * solving ordinary differential equations (ODEs)
@@ -20,4 +19,3 @@ This course covers and includes:
 * finite differences for partial differential equations
 * fourier analysis and general linear model
 * linear algebra.
-

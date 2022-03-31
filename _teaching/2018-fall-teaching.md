@@ -9,4 +9,3 @@ location: "Oxford, UK"
 ---
 
 This tutorial is a part of the _Mathematical Methods_ course for the second year Physics undergraduate degree at the University of Oxford.
-

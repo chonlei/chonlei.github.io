@@ -10,12 +10,10 @@ location: "Oxford, UK"
 
 This course provides the basics for research software engineering (RSE).
 
-Topics covered
-======
+## Topics covered
 
 This course covers a wide range of techniques in RSE, but I mainly cover the _Optimising Python code_ session:
 * NumPy vectorisation
 * Cython
 * pybind11
 * multiprocessing.
-
