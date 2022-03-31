@@ -22,6 +22,10 @@ redirect_from:
 
 
 ## Teaching Experience
+* 2021 - _present_: Lecturer
+  * University of Macau
+  * Course: _HSCI7001 Artificial Intelligence in Medicine_
+
 * 2021 - _present_: Lecturer (Course Convenor)
   * University of Macau
   * Course: _GEST1002 Quantitative Reasoning for Social Sciences_
@@ -62,13 +66,13 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  
+
 ## Preprints
   <ul>{% for post in site.preprints reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  
+
 ## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
@@ -85,8 +89,9 @@ redirect_from:
 * 2014: Engineering Technical Assistant
   * Quattro Plant Ltd., London
 
-  
+
 ## Service and Leaderships
+* 2022: Judging panel of the 6th Symposium on Biomedical Sciences for Students, Postdoctoral Fellows and Research Assistants.
 * 2021: Judging panel of a local high-school science competition in Macau.
 * 2020: Departmental joint consultative committee at the University of Oxford.
 * 2016 - 2020: Student representative for Doctoral Training Centre at the University of Oxford.
