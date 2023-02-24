@@ -12,7 +12,8 @@ tags:
   - app
 ---
 
-An online app to simulate a patch-clamp voltage-clamp experiment: [virtual-voltage-clamp.herokuapp.com](https://virtual-voltage-clamp.herokuapp.com/).
+An online app to simulate a patch-clamp voltage-clamp experiment:
+[virtual-voltage-clamp.up.railway.app](https://virtual-voltage-clamp.up.railway.app/) or [virtual-voltage-clamp.onrender.com](https://virtual-voltage-clamp.onrender.com/).
 
 
 Voltage clamp
@@ -66,8 +67,12 @@ So I can't tell you for sure whether the compensation is good enough, but I can 
 [Our study](https://doi.org/10.1098/rsta.2019.0348)<sup>1</sup> developed a mathematical model for the entire voltage-clamp experiment.
 We can simulate what is happening in the voltage-clamp experiments, and we can readout, study and analyse things that cannot be observed in the actual experiments, such that we can have a better idea of whether we are happy with what we measured in the experiments.
 
-The model that we developed is deployed on [virtual-voltage-clamp.herokuapp.com](https://virtual-voltage-clamp.herokuapp.com/), so that everyone can play around with different settings/conditions of the experiment and see how the ideal case differs from the observation.
+The model that we developed is deployed on
+[virtual-voltage-clamp.up.railway.app](https://virtual-voltage-clamp.up.railway.app/) and [virtual-voltage-clamp.onrender.com](https://virtual-voltage-clamp.onrender.com/)<sup>2</sup>,
+so that everyone can play around with different settings/conditions of the experiment and see how the ideal case differs from the observation.
 Have fun and enjoy _virtual voltage clamping_!
 
 
 <sup>1</sup> Lei _et al._ 2020, _Phil. Trans. R. Soc. A._ 378:20190348. [doi:10.1098/rsta.2019.0348](https://doi.org/10.1098/rsta.2019.0348).
+
+<sup>2</sup> (_edited: 2023-02-23_) It used to be [virtual-voltage-clamp.heroku.com](https://virtual-voltage-clamp.heroku.com/) but since November 2022, <heroku.com> has removed all free deployment, therefore we are now deploying on <railway.app> (with 500 hours (~21 days) per month) and <render.com> (with downtime and much slower).
