@@ -75,4 +75,4 @@ Have fun and enjoy _virtual voltage clamping_!
 
 <sup>1</sup> Lei _et al._ 2020, _Phil. Trans. R. Soc. A._ 378:20190348. [doi:10.1098/rsta.2019.0348](https://doi.org/10.1098/rsta.2019.0348).
 
-<sup>2</sup> (_edited: 2023-02-23_) It used to be [virtual-voltage-clamp.heroku.com](https://virtual-voltage-clamp.heroku.com/) but since November 2022, <heroku.com> has removed all free deployment, therefore we are now deploying on <railway.app> (with 500 hours (~21 days) per month) and <render.com> (with downtime and much slower).
+<sup>2</sup> (_edited: 2023-02-23_) It used to be [virtual-voltage-clamp.heroku.com](https://virtual-voltage-clamp.heroku.com/) but since November 2022, [Heroku](https://heroku.com/) has removed all free deployment, therefore we are now deploying on [Railway](https://railway.app/) (with 500 hours (~21 days) per month) and [Render](https://render.com/) (with downtime and much slower).
