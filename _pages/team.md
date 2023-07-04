@@ -13,6 +13,10 @@ author_profile: true
 
 - [__Hui Jia Farm__](https://www.cs.ox.ac.uk/people/hui.farm/) is a PhD student at the [University of Oxford](https://www.ox.ac.uk/) working with me, [Michael Clerx](http://michaelclerx.com/) in Nottingham, [Fergus Cooper](https://www.cs.ox.ac.uk/people/fergus.cooper/), [David Gavaghan](https://www.cs.ox.ac.uk/people/david.gavaghan/) in Oxford, and Hoffmann-La Roche Safety Pharmacology group in Basel, Switzerland to examine drug binding effects to ion channels.
 
+## Current Research Assistants
+
+- Leandro Acosta is an RA at the [University of Macau](https://www.um.edu.mo/) working with me on developing the front end of virtual patch clamp (coming up soon).
+
 ## Current Master Students
 
 - Jintai Du (University of Macau [MSc in Data Science in Precision Medicine](https://cds.ici.um.edu.mo/programme/specialization/precision-medicine/))
