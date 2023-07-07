@@ -15,7 +15,7 @@ author_profile: true
 
 ## Current Research Assistants
 
-- Leandro Acosta is an RA at the [University of Macau](https://www.um.edu.mo/) working with me on developing the front end of virtual patch clamp (coming up soon).
+- [__Leandro Acosta__](https://www.linkedin.com/in/leandrosacosta/) is an RA at the [University of Macau](https://www.um.edu.mo/) working with me on developing the front end of virtual patch clamp (coming up soon).
 
 ## Current Master Students
 
