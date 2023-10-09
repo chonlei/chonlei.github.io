@@ -17,6 +17,8 @@ author_profile: true
 
 - [__Leandro Acosta__](https://www.linkedin.com/in/leandrosacosta/) is an RA at the [University of Macau](https://www.um.edu.mo/) working with me on developing the front end of virtual patch clamp (coming up soon).
 
+- [__Owen Hailong Chen__](http://www.linkedin.com/in/PetroOwen) is an RA at the [University of Macau](https://www.um.edu.mo/) working with me on developing the back end of the virtual patch clamp.
+
 ## Current Master Students
 
 - Jintai Du (University of Macau [MSc in Data Science in Precision Medicine](https://cds.ici.um.edu.mo/programme/specialization/precision-medicine/))
