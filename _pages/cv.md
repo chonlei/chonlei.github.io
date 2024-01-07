@@ -19,9 +19,8 @@ redirect_from:
 * 2024 - _present_: Assistant Professor of Biomedical Sciences
   * University of Macau, Faculty of Health Sciences
 
-* 2021 - 2024: Lecturer
+* 2021 - 2024: Lecturer (UM Macao Fellow, independent research fellowship)
   * University of Macau, Faculty of Health Sciences
-  * An academic staff position appointed via an independent research fellowship, with a functional title as _UM Macao Fellow_.
 
 
 ## Teaching Experience
