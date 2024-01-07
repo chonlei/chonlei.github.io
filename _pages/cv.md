@@ -16,8 +16,11 @@ redirect_from:
 
 
 ## Professional Appointments
-* 2021 - _present_: Lecturer at Faculty of Health Sciences
-  * University of Macau
+* 2024 - _present_: Assistant Professor of Biomedical Sciences
+  * University of Macau, Faculty of Health Sciences
+
+* 2021 - 2024: Lecturer
+  * University of Macau, Faculty of Health Sciences
   * An academic staff position appointed via an independent research fellowship, with a functional title as _UM Macao Fellow_.
 
 
