@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome to Chon Lok Lei's research homepage.
 
-I am an Assistant Professor in the [Faculty of Health Sciences](https://fhs.um.edu.mo/en/) at the [University of Macau](https://www.um.edu.mo/) (see [my official university page](https://fhs.um.edu.mo/en/staff/chonlok-lei/)).
+I am an Assistant Professor in the [Faculty of Health Sciences](https://fhs.um.edu.mo/en/) at the [University of Macau](https://www.um.edu.mo/) (see [my official university page](https://fhs.um.edu.mo/en/staff/chon-lok-lei/)).
 I completed my doctoral degree as a [Clarendon scholar](https://www.ox.ac.uk/clarendon) at the [Computational Biology group](https://www.cs.ox.ac.uk/research/compbio) in the Department of Computer Science at the [University of Oxford](http://www.ox.ac.uk) (see [my previous university page](https://www.cs.ox.ac.uk/people/chonlok.lei)),
 before which I attended training programmes at the [Doctoral Training Centre](http://www.dtc.ox.ac.uk/) at the University of Oxford,
 and I received my undergraduate degree in Physics from [Imperial College London](https://www.imperial.ac.uk/).
@@ -27,9 +27,11 @@ To answer that question, I, together with [Gary Mirams](https://www.nottingham.a
 We found that using such a model can account for most of the cell-cell variability that we observed in hERG ion channel kinetics.
 The voltage clamp experiment model that we developed is also a very useful educational tool.
 I have created a free online app using the model for understanding (or even to get a feel for) what the amplifier does under the hood:
-[virtual-voltage-clamp.onrender.com](https://virtual-voltage-clamp.onrender.com/).
+[compbio.fhs.um.edu.mo/vpatch](https://compbio.fhs.um.edu.mo/vpatch/).
 
 See my [publications page]({{ base_path }}/publications) for my other recent work.
 
 If you are interested in joining my team, please check out our [open positions]({{ base_path }}/open).
+
+You may also visit my research group page at [compbio.fhs.um.edu.mo](https://compbio.fhs.um.edu.mo/).
 
