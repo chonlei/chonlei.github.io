@@ -29,7 +29,7 @@ See also my research group page at [compbio.fhs.um.edu.mo](https://compbio.fhs.u
 
 - __Jingkai Zeng__ is an RA at the [University of Macau](https://um.edu.mo/). He completed [MSc in Data Science in Precision Medicine](https://cds.ici.um.edu.mo/programme/specialization/precision-medicine/) with me in 2022-2023.
 
-- __Chen Yanzhen__ is an RA at the [University of Macau](https://um.edu.mo/).
+- __Chen Yanzhen__ is an RA at the [University of Macau](https://um.edu.mo/), and he used to work on bioinformatics analysis with various omics data.
 
 ## Current Master Students
 
