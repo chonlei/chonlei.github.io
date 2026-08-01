@@ -25,13 +25,13 @@ redirect_from:
 
 
 ## Teaching Experience
-* 2021 - _present_: Lecturer
-  * University of Macau
-  * Course: _HSCI7001 Artificial Intelligence in Medicine_
-
 * 2021 - _present_: Lecturer (Course Convenor)
   * University of Macau
   * Course: _GEST1002 Quantitative Reasoning for Social Sciences_
+
+* 2021 - 2023: Lecturer
+  * University of Macau
+  * Course: _HSCI7001 Artificial Intelligence in Medicine_
 
 * 2018 - 2020: Lecturer
   * University of Oxford, Doctoral Training Centre
