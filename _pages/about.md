@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome to Chon Lok Lei's research homepage.
 
-I am an Assistant Professor in the [Faculty of Health Sciences](https://fhs.um.edu.mo/en/) at the [University of Macau](https://www.um.edu.mo/) (see [my official university page](https://fhs.um.edu.mo/en/staff/chon-lok-lei/)).
+I am an Assistant Professor in the [Faculty of Medicine](https://fmd.um.edu.mo/) and the [Faculty of Science](https://fsc.um.edu.mo/) at the [University of Macau](https://www.um.edu.mo/) (see [my official university page](https://fmd.um.edu.mo/academic/jack-chon-lok-lei/)).
 I completed my doctoral degree as a [Clarendon scholar](https://www.ox.ac.uk/clarendon) at the [Computational Biology group](https://www.cs.ox.ac.uk/research/compbio) in the Department of Computer Science at the [University of Oxford](http://www.ox.ac.uk) (see [my previous university page](https://www.cs.ox.ac.uk/people/chonlok.lei)),
 before which I attended training programmes at the [Doctoral Training Centre](http://www.dtc.ox.ac.uk/) at the University of Oxford,
 and I received my undergraduate degree in Physics from [Imperial College London](https://www.imperial.ac.uk/).
