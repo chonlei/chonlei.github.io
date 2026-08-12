@@ -14,7 +14,7 @@ entrypoints==0.3
 geographiclib==1.50
 geopy==2.1.0
 getorg==0.3.1
-idna==2.10
+idna==3.7
 ipykernel==5.5.0
 ipyleaflet==0.13.6
 ipython==8.10.0
